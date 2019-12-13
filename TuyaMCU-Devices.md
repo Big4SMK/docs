@@ -180,6 +180,9 @@ As per main TuyaMCU page using
    :-:|-
    01 | Tuya Rx (108)
    03 | Tuya Tx (107)
+   
+NOTE: Rx and Tx Pins might be swapped on some devices, e.g. latest MS-105 dimmer looking like this: [Enclosure](https://user-images.githubusercontent.com/13876030/70728594-ffae3080-1d01-11ea-8a5b-c7d5f25ae9ff.jpg), [Front](https://user-images.githubusercontent.com/13876030/70728853-6e8b8980-1d02-11ea-9a84-ad81d7b21922.jpg), [Back](https://user-images.githubusercontent.com/13876030/70728857-70554d00-1d02-11ea-81c3-2bece9bbf85c.jpg)
+
 
 ### More information:
 Bought from [ebay](https://www.ebay.co.uk/itm/Smart-Wifi-Dimmer-Switch-Support-Tuya-Smart-Life-LED-Light-Timing-Remote-Control/233233166207)
